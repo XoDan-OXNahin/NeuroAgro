@@ -1,0 +1,12 @@
+Flask==3.1.3
+Werkzeug==3.1.8
+gunicorn==23.0.0
+keras==3.14.1
+numpy==2.4.6
+opencv-python-headless==4.13.0.92
+requests==2.34.2
+scikit-learn==1.9.0
+supervision==0.28.0
+tensorflow==2.21.0
+ultralytics==8.4.66
+gTTS==2.5.4
